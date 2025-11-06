@@ -1,0 +1,7 @@
+{
+  "name": "42 Network Cadete Avaliador",
+  "description": "An AI-powered evaluator that conducts a rigorous pre-assessment of 42 Network projects. Users engage in a real-time audio conversation, defending their code and functionality, while the AI provides a structured, peer-review-style evaluation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
